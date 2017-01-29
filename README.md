@@ -10,6 +10,7 @@ A Feathers.js service for JS-Data.js
 
 ------
 
+# Build
 
 ```
 npm i -S feathers-js-data
