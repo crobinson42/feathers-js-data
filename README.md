@@ -4,7 +4,7 @@ A Feathers.js service for JS-Data.js
 ------
 
 <img src="https://raw.githubusercontent.com/js-data/js-data/master/js-data.png" alt="js-data logo" title="js-data" height="100" />
-<img height="100" src="http://feathersjs.com/img/feathers-logo-wide.png" alt="Feathers logo">
+<img style="padding-left:40px;" height="100" src="http://feathersjs.com/img/feathers-logo-wide.png" alt="Feathers logo">
 
 
 ------
