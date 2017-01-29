@@ -1,3 +1,6 @@
+# npm localstorage package used for tests
+test-localStorage
+
 # Logs
 logs
 *.log
