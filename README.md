@@ -1,15 +1,15 @@
 # feathers-js-data
-A Feathers.js service for JS-Data.js
+A <a href="http://feathersjs.com/">Feathers.js</a> service for <a href="http://www.js-data.io/">JS-Data.js</a>
 
 ------
 
-<img src="https://raw.githubusercontent.com/js-data/js-data/master/js-data.png" alt="js-data logo" title="js-data" height="100" />
-<img style="padding-left:40px;" height="100" src="http://feathersjs.com/img/feathers-logo-wide.png" alt="Feathers logo">
+<img src="https://raw.githubusercontent.com/js-data/js-data/master/js-data.png" alt="js-data logo" title="js-data" height="50" />
+<img style="padding-left:40px;" height="50" src="http://feathersjs.com/img/feathers-logo-wide.png" alt="Feathers logo">
 
 
 ------
 
-# Build
+
 
 ```
 npm i -S feathers-js-data
