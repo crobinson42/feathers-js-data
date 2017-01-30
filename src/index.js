@@ -38,6 +38,11 @@ class Service {
   }
 
   update(id, data, params) {
+    // remove id attr - ie: mongoDB ObjectID/string issues
+    if (data && data[this.store.idAttribute]) {
+      delete data[this.store.idAttribute]
+    }
+
     if (id) {
       return this.store.update(id, data)
     }
